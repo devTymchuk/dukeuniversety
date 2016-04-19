@@ -9,6 +9,8 @@ package duke.design;
 
 import java.util.ArrayList;
 
+import dictionaries.QuakeEntry;
+
 public class ClosestQuakes {
 
 	public ArrayList<QuakeEntry> getClosest(ArrayList<QuakeEntry> quakeData,

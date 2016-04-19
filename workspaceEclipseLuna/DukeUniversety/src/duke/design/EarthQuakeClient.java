@@ -2,6 +2,8 @@ package duke.design;
 
 import java.util.ArrayList;
 
+import dictionaries.QuakeEntry;
+
 public class EarthQuakeClient {
 
 	public ArrayList<QuakeEntry> filterByMagnitude(

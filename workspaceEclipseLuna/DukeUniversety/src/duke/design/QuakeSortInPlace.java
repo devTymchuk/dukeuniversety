@@ -9,6 +9,8 @@ package duke.design;
 
 import java.util.ArrayList;
 
+import dictionaries.QuakeEntry;
+
 public class QuakeSortInPlace {
 	public QuakeSortInPlace() {
 		// TODO Auto-generated constructor stub

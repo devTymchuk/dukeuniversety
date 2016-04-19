@@ -8,6 +8,8 @@ package duke.design;
 import java.util.ArrayList;
 import java.util.Collections;
 
+import dictionaries.QuakeEntry;
+
 public class QuakeSortDemo {
 
 	public void testSort() {

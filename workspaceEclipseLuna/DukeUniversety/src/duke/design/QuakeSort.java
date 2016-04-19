@@ -1,6 +1,8 @@
 package duke.design;
 import java.util.*;
 
+import dictionaries.QuakeEntry;
+
 public class QuakeSort {
     public QuakeEntry getSmallestMagnitude(ArrayList<QuakeEntry> quakes) {
         QuakeEntry min = quakes.get(0);

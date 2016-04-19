@@ -2,6 +2,8 @@ package duke.design;
 
 import java.util.ArrayList;
 
+import dictionaries.QuakeEntry;
+
 public class QuakeSortWithTwoArrayLists {
 	// This is the code from the Video of Selection Sort with Two ArrayLists
 
